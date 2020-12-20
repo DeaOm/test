@@ -1372,7 +1372,7 @@
         {
          "columns":10,
          "firstgid":577,
-         "image":"..\/workadventure\/maps\/Floor0\/desks.png",
+         "image":"..\/desks.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -1764,7 +1764,7 @@
         {
          "columns":8,
          "firstgid":687,
-         "image":"..\/workadventure\/maps\/Floor0\/signages.png",
+         "image":"..\/signages.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -2170,7 +2170,7 @@
         {
          "columns":3,
          "firstgid":831,
-         "image":"..\/..\/Downloads\/AD_logo.png",
+         "image":"..\/AD_logo.png",
          "imageheight":100,
          "imagewidth":100,
          "margin":0,
